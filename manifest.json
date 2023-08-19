@@ -1,0 +1,15 @@
+{
+  "name" : "Dad Jokes",
+  "version" : "1.0.0",
+  "description" : "Get jokes with every refresh",
+  "manifest_version" : 3,
+  "action" : {
+    "default_popup" : "index.html",
+    "default_title" : "Dad Jokes"
+  },
+  "icons" : {
+    "128" : "laugh.png",
+    "64" : "smallLogo.png"
+  },
+  "permissions" : ["activeTab"]
+}
